@@ -18,9 +18,9 @@ It also keeps track of completed and uncompleted tasks in real-time.
 - 🎯 **User-Friendly Interface**: Clean and responsive design for an optimal user experience.
 
 ## 💡 Usage
--Open the application in your browser.
--Enter a task in the input field.
--Click the "Add Task" button to add it to your list.
--Use the checkboxes to mark tasks as completed.
--Click "Edit" to modify a task or "Delete" to remove it.
--View the counters to keep track of your completed and uncompleted tasks.
+- Open the application in your browser.
+- Enter a task in the input field.
+- Click the "Add Task" button to add it to your list.
+- Use the checkboxes to mark tasks as completed.
+- Click "Edit" to modify a task or "Delete" to remove it.
+- View the counters to keep track of your completed and uncompleted tasks.
